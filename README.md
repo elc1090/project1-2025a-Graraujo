@@ -59,8 +59,8 @@ Substitua este trecho por uma lista detalhada dos ambientes/ferramentas de desen
 
 Substitua este trecho por uma lista bem detalhada de todo material que você consultou para ajudar no projeto, por exemplo: URL de templates usados, URL de icon kits usados, créditos para colegas que colaboraram, geradores de código (incluindo alguns prompts usados para o ChatGPT, se for o caso)
 
-- ...
-- ...
+- [...](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content)
+- [...](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input)
 
 ---
 
