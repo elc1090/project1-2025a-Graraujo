@@ -62,6 +62,8 @@ Substitua este trecho por uma lista bem detalhada de todo material que você con
 - [...](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content)
 - [...](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input)
 
+https://flexboxfroggy.com/
+https://cssgridgarden.com/
 ---
 
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2025a) em 2025a
