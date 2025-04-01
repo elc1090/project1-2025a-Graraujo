@@ -2,19 +2,9 @@
 
 # Projeto: Remake de site/app web
 
-> 1. Leia com atenção as instruções abaixo para editar este README em formato Markdown.
-> 2. Substitua todos os trechos de texto iniciados com "Substitua" por informações do seu projeto, conforme solicitado em cada trecho.
-> 3. Substitua a imagem por um screenshot do projeto (o arquivo pode ser armazenado no repositório ou em URL externa). GIFs animados também são permitidos!
-> 4. Remova todas as instruções de entrega.
-> 5. Double-check: Certifique-se de que seu README.md não contenha instruções de entrega!
-> 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
->    Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
-
-![Texto alternativo](https://drive.google.com/uc?id=1w6lJY9HNQLqhHJ7cvLvmmpet2pJDYpn0)
-
 ![Gif](https://private-user-images.githubusercontent.com/43685526/428848610-fdb13d45-9f5a-49c8-b3ac-5fc4a51bfd70.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0NzQ1MzgsIm5iZiI6MTc0MzQ3NDIzOCwicGF0aCI6Ii80MzY4NTUyNi80Mjg4NDg2MTAtZmRiMTNkNDUtOWY1YS00OWM4LWIzYWMtNWZjNGE1MWJmZDcwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDAyMjM1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3YjAxMjRmZWQ2ZjVhZDEwY2ViNWUxMjkwMmZlYzkwMGNlMDczMDZlNWY4NWM3YTYxN2QyYjIzOWQ1MDVhNWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UDMKvl5zdpxTBGjK64hznBdK9l9u-srqFYtaBegyTBw)
 
-Acesso: Substitua este texto pela URL para acesso ao site publicado
+Acesso: https://elc1090.github.io/project1-2025a-Graraujo/
 
 #### Desenvolvedor(a)
 
