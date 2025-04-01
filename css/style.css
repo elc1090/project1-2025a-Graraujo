@@ -14,12 +14,14 @@ header {
   padding: 10px 20px;
 }
 
+/*menu do lado direito*/
 header .header-right {
   display: flex;
   align-items: center;
   gap: 20px;
 }
 
+/*banners*/
 .banners {
   display: flex;
   flex-direction: column;
@@ -37,6 +39,7 @@ header .header-right {
   height: auto;
 }
 
+/*menu*/
 .menu {
   position: relative;
   z-index: 10;
@@ -76,6 +79,7 @@ header .header-right {
   display: block;
 }
 
+/*barra de pesquisa*/
 .search-bar {
   display: flex;
   align-items: center;
@@ -88,13 +92,12 @@ header .header-right {
   border: none;
   padding: 8px 12px;
   border-radius: 20px;
-  outline: none;
   width: 180px;
   transition: width 0.3s ease-in-out;
 }
 
 .search-bar button {
-  background-color: #000;
+  background-color: #000000;
   color: #fff;
   border: none;
   padding: 8px 12px;
@@ -103,6 +106,7 @@ header .header-right {
   transition: background 0.3s;
 }
 
+/*content dos produtos*/
 .list {
   display: flex;
   justify-content: center;
@@ -137,6 +141,7 @@ header .header-right {
   transform: translateY(0);
 }
 
+/*carrossel*/
 .carrossel {
   position: relative;
   overflow: hidden;
@@ -181,7 +186,7 @@ header .header-right {
 }
 
 .carrossel .content button {
-  background-color: #000;
+  background-color: #000000;
   color: #fff;
   border: none;
   padding: 8px 16px;
@@ -229,8 +234,9 @@ header .header-right {
   pointer-events: none;
 }
 
+/*rodapé*/
 .footer {
-  background-color: #111;
+  background-color: #000000;
   color: #fff;
   padding: 40px 20px;
   text-align: center;

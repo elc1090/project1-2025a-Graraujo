@@ -7,12 +7,13 @@ body {
 }
 
 header {
-    background-color: #000;
+    background-color: #000000;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
+/*titulo da página*/
 h1 {
     font-size: 2.5rem;
     color: #333;
@@ -22,6 +23,7 @@ h1 {
     font-weight: bold;
 }
 
+/*section de promoções*/
 .promo-section {
     display: flex;
     flex-wrap: wrap;
@@ -30,6 +32,7 @@ h1 {
     padding: 20px;
 }
 
+/*os itens das promoções*/
 .promo-item {
     background-color: #fff;
     width: 250px;
@@ -69,7 +72,7 @@ h1 {
 }
 
 .promo-item:hover {
-    transform: translateY(-5px);
+    transform: translateY(-40px);
 }
 
 .promo-item .content button {
@@ -87,8 +90,10 @@ h1 {
     background-color: #c0392b;
 }
 
+/*rodapé*/
+
 .footer {
-    background-color: #111;
+    background-color: #000000;
     color: white;
     padding: 30px 20px;
     text-align: center;
